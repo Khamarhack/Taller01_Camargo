@@ -1,6 +1,11 @@
-// exercise1.cxx (Andrea Rueda)
-
-// Main program that uses the functionality of rectangle.h
+/***********************************************
+* Fecha: 29 enero 2025
+* autor: Santiago Camargo Trujillo
+* materia: Estructura de Datos
+* Tópico:
+* PONTIFICIA UNIVERSIDAD JAVERIANA
+*
+***********************************************/
 
 #include <iostream>
 #include "rectangle.h"
