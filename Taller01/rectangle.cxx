@@ -1,3 +1,11 @@
+/***********************************************
+* Fecha: 29 enero 2025
+* autor: Santiago Camargo Trujillo
+* materia: Estructura de Datos
+* Tópico: Renctangle
+* PONTIFICIA UNIVERSIDAD JAVERIANA
+*
+***********************************************/
 #include "rectangle.h"
 #include <math.h>
 
